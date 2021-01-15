@@ -1,0 +1,36 @@
+J'ai pour mission de reformer le site Mymusic. Pour cela je dois procéder à un plan détaillé et ansi agir d'une manière ordonnée et efficace. 
+
+Je vais prorcéder de la manière suivante : 
+
+1) Regarder les liens tuto afin de maîtriser Git, car sans lui je ne peux pas commit de liens. Mes difficultés étant :
+- Naviguer dans le terminal 
+- Générer des liens valides 
+Voici les liens pour m'aider :
+- http://duduf.com/utiliser-la-ligne-de-commande-sous-windows/
+- http://doc.ubuntu-fr.org/tutoriel/console_ligne_de_commande
+- https://developer.mozilla.org/fr/docs/Apprendre/Utiliser_les_pages_GitHub
+- https://www.christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/
+
+2) Procéder à la maquette figma. Afin d'avoir un modèle bien précis. 
+
+3) Écrire mes pages en HTML.
+
+4) Terminer par le CSS. 
+
+5) Puis versionner mon site sur Git afin de le livrer. 
+
+
+
+
+
+Voici mon compte rendu du travail demandé : 
+
+Je devais faire un site de musique avec une page principale, basée sur la recherche de contenu musical. Recherche faisant appel à des sites comme Deezer, Spotify, MusicBrainz et TuneIn. 
+
+J'ai procédé en deux phases : 
+
+Phase 1 : La partie HTML 
+Je crée les deux pages en HTML 
+
+Phase 2 : La partie CSS 
+J'utilise le flex pour les deux pages afin de leur donner un aspect harmonieux. 

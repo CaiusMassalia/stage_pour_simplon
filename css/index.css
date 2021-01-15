@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    background: linear-gradient(180deg, rgb(0, 0, 0) 65%, rgb(180, 177, 177) 35%);
+}
+
+
+nav {
+    height: 5vh;
+    widows: 90;
+    display: flex;
+    margin: auto;
+    background-color: #424242;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.linear-gradient {
+    background: linear-gradient(black, rgba(255, 255, 255, 0.103));
+}
+
+body {
+    margin: 0;
+}
+
+.titre1 {
+    color: white;
+    text-align: center;
+}
+
+.listm {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 0;
+    text-align: center;
+    color: white;
+}
+
+.i1 {
+    border: solid white;
+}
+
+.i2 {
+    border: solid white;
+}
+
+.i3 {
+    border: solid white;
+}
+
+
+.logo2{
+    margin-top: 10px;
+}
+
+main {
+    background: linear-gradient(180deg, rgb(212, 53, 53) 0%, rgb(180, 83, 83) 35%);
+}
+
+.recherches {
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 50px;
+    color: white;
+}
+
+.titleresearch {
+    text-align: center;
+    font-size: 90px;
+    color: white;
+}
+
+.research {
+    list-style: none;
+    font-size: 70px;
+    color: white;
+}
+
+.sbar {
+    color: white;
+    text-align: center;
+}
+
+.barre {
+    width: 500px;
+}
+
+.mesart {
+    text-align: center;
+}
+
+.logolist {
+    display: flex;
+    align-items: center;
+    margin-right: 45%;
+    margin-left: 43%;
+}
+
+footer {
+        height: 15vh;
+        widows: 90;
+        display: flex;
+        margin: auto;
+        background-color: #424242;
+        align-items: center;
+        justify-content: space-between;
+        grid-template-columns: repeat(4, 1fr);
+}
+
+
+.menu {
+    list-style: none;
+    color: white;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+}
+
